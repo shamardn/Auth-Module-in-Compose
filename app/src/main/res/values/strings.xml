@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Auth Module compose</string>
+    <string name="please_fill_all_fields">Please fill all fields</string>
+    <string name="please_enter_a_valid_email">Please enter a valid email</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="password_must_contain_at_least_one_uppercase_letter">Password must contain at least one uppercase letter</string>
+    <string name="password_must_contain_at_least_one_number">Password must contain at least one number</string>
+    <string name="password_must_contain_at_least_one_special_character">Password must contain at least one special character</string>
+    <string name="password_must_be_at_least_8_characters_long">Password must be at least 8 characters long</string>
+    <string name="login_failed">Could not login</string>
+    <string name="register_failed">Could not register</string>
 </resources>
